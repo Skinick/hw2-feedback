@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Skinick/hw2-feedback/static/css/main.b707e430.css",
+    "main.js": "/Skinick/hw2-feedback/static/js/main.ae896205.js",
+    "index.html": "/Skinick/hw2-feedback/index.html",
+    "main.b707e430.css.map": "/Skinick/hw2-feedback/static/css/main.b707e430.css.map",
+    "main.ae896205.js.map": "/Skinick/hw2-feedback/static/js/main.ae896205.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b707e430.css",
+    "static/js/main.ae896205.js"
+  ]
+}
