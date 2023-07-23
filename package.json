@@ -2,7 +2,7 @@
   "name": "hw2-feedback",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/Skinick/hw2-feedback",
+  "homepage": "https://Skinick.github.io/hw2-feedback/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.3",
     "@testing-library/react": "^12.1.4",
